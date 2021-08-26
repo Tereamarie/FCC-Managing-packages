@@ -3,17 +3,20 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
 	"version": "1.2.0",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [
+		"descriptive",
+		"related",
+		"words"
+	],
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0",
 		"body-parser": "^1.15.2",
 		"cookie-parser": "^1.4.3",
 		"fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
-		},
+	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	}
-	
 }
