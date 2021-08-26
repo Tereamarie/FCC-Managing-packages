@@ -2,6 +2,7 @@
 	"author": "MArie Knowlton",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
+	"version": "1.2.0",
 	"keywords": [ "descriptive", "related", "words" ],
 	"license": "MIT",
 	"dependencies": {
